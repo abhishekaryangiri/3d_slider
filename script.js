@@ -1,6 +1,6 @@
 $(document).ready(function () {
   let currentIndex = 0;
-  const totalSlides = 4;
+  const totalSlides = 5;
   const intervalTime = 3000;
 
   function showNextSlide() {
